@@ -1,4 +1,5 @@
-require_relative '../square_array'
+require_relative 'spec_helper.rb'
+require_relative '../square_array.rb'
 
 describe '#square_array' do
 
