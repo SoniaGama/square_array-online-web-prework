@@ -1,4 +1,4 @@
-
+require_relative 
 
 describe '#square_array' do
 
